@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@js-workspace/weather": ["libs/weather/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
