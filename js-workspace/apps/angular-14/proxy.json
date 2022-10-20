@@ -1,0 +1,9 @@
+{
+  "/weatherforecast": {
+    "target": "https://localhost:7093",
+    "secure": false,
+    "headers": {
+      "Connection": "Keep-Alive"
+    }
+  }
+}
